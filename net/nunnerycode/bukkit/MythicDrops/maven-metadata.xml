@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.nunnerycode.bukkit</groupId>
+  <artifactId>MythicDrops</artifactId>
+  <versioning>
+    <versions>
+      <version>3.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140220150526</lastUpdated>
+  </versioning>
+</metadata>
