@@ -335,7 +335,7 @@
       <artifactId>LeveledMobs</artifactId>
       <version>14</version>
       <scope>system</scope>
-      <systemPath>/var/lib/jenkins/jobs/MythicDrops-Razor/workspace/lib/LeveledMobs.jar</systemPath>
+      <systemPath>/var/lib/jenkins/jobs/MythicDrops-Bleeding/workspace/lib/LeveledMobs.jar</systemPath>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
